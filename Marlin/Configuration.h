@@ -483,9 +483,9 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
   // MY Ender-3
- #define DEFAULT_Kp 15.69
- #define DEFAULT_Ki 1.14
- #define DEFAULT_Kd 54.01
+ #define DEFAULT_Kp 16.23
+ #define DEFAULT_Ki 1.17
+ #define DEFAULT_Kd 56.03
  
   // Ultimaker
   //#define DEFAULT_Kp 22.2
@@ -734,7 +734,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 485 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 480 }
 
 /**
  * Default Max Feed Rate (mm/s)
