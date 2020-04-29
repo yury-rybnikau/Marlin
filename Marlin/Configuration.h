@@ -483,9 +483,9 @@
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
   // MY Ender-3
- #define DEFAULT_Kp 16.23
- #define DEFAULT_Ki 1.17
- #define DEFAULT_Kd 56.03
+ #define DEFAULT_Kp 16.81
+ #define DEFAULT_Ki 1.25
+ #define DEFAULT_Kd 56.34
  
   // Ultimaker
   //#define DEFAULT_Kp 22.2
